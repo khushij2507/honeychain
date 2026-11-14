@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+honeychain.db
+.venv/
+.env
