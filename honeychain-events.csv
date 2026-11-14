@@ -1,0 +1,4 @@
+id,batch_code,event_type,actor,location,details,created_at,prev_hash,event_hash
+1,HC-2026-001,Batch created,Asha Devi,Sirmaur Cluster A,"{""floral_source"": ""Mustard"", ""quantity_kg"": 42.5, ""status"": ""Packed""}",2026-10-28T18:16:54+00:00,GENESIS,38cecb522971f0213a0fa9392c6919b4dd0f68ec99ac594d9b84105f0a34821b
+2,HC-2026-002,Batch created,Ravi Kumar,Paonta Cluster B,"{""floral_source"": ""Eucalyptus"", ""quantity_kg"": 28.0, ""status"": ""Harvested""}",2026-10-28T18:16:54+00:00,38cecb522971f0213a0fa9392c6919b4dd0f68ec99ac594d9b84105f0a34821b,959588febf52d3555e3d235ae41dc62c9fb57e263b45b41b97d5dc64ce93623a
+3,HC-2026-003,Batch created,Meera Singh,Nahan Cluster C,"{""floral_source"": ""Multifloral"", ""quantity_kg"": 35.0, ""status"": ""Quality Check""}",2026-10-28T18:16:54+00:00,959588febf52d3555e3d235ae41dc62c9fb57e263b45b41b97d5dc64ce93623a,8af45e8618c3ad225085c374ad2715db651883d46ba33bb15076cb96d47b1c01
